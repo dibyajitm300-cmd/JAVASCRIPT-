@@ -24,5 +24,38 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 let someNumber = 33
 
 let stringNumber = String(someNumber)
-console.log(stringNumber)
-console.log(typeof   stringNumber)
+// console.log(stringNumber)
+// console.log(typeof   stringNumber)
+
+//******************** Operation **********************
+let value = 7
+let negValue = -value
+// console.log(negValue);
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2/2);
+// console.log(2**2);
+// console.log(2%3);
+
+let str1 = "Hello"
+let str2 = " Hitesh"
+
+let str3 = str1 + str2
+// console.log(str3)
+
+// console.log("1" + 2)
+// console.log(1 + "2")
+// console.log("1"+"2")
+
+// console.log("1"+ 2 + 2)
+// console.log(1+ 2 + "2")
+
+// The above line 51 & 54 shows that the value conversion is depend upon the type and Operation that has been done 1st
+
+// console.log(true)//=> true
+// console.log(+true)//=> 1
+// console.log(+"")//=> 0
+
+
